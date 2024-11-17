@@ -1,7 +1,7 @@
 # FinalProject
 CMPINF0010 Final Project
 
-Team name - 
+Team name - Safe Pittsburgh
 
 
 
