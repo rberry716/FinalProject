@@ -1,7 +1,7 @@
 # FinalProject
 CMPINF0010 Final Project
 
-Team name - 
+Team name - Safe Pittsburgh
 
 
 
@@ -14,7 +14,7 @@ Jace Beam - jtb189@pitt.edu
 
 
 
-Ryan Berry - rpb622pitt.edu
+Ryan Berry - rpb62@pitt.edu
 
 (Non-TrafficCitation Data)
 
